@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: brown;
+    text-align: center;
+}
+.path{
+    background: violet;
+}
+.docktop{
+    background: skyblue;
+}
+.wrapper{
+    overflow: hidden;
+    
+}
+
+.wrapper div{
+
+    float: left;
+    width: 33.3%;
+}
+
+.cernter-panel div{
+    width: 100%;
+}
+.left-panel{
+    background: red;
+    height: 400px;
+    
+}
+
+.right-panel{
+    background: yellow;
+    height: 400px;
+    
+}
+.error{
+    background: palegreen;
+    width: 50%;
+    
+}
+.content{
+    background:violet;
+    width: 50%;
+    height: 362px;
+   
+}
